@@ -1,0 +1,22 @@
+{
+  "name": "cahe-user",
+  "version": "0.0.1",
+  "description": "短小精悍的缓存工具，防止内存“侧漏”",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cache-user/cahe-user.git"
+  },
+  "keywords": [
+    "cache"
+  ],
+  "author": "https://github.com/cache-user",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cache-user/cahe-user/issues"
+  },
+  "homepage": "https://github.com/cache-user/cahe-user#readme"
+}
